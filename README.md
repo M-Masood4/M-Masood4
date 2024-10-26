@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @M-Masood4, I am currently a student at University College Cork
 - 👀 I’m interested in making apps, websites and other cool stuff
-- 🌱 I’m currently learning OOP (python), DSA, MIPS Assembly
+  
+### My Skills
 
-My Skills
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
 
