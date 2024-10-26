@@ -3,14 +3,13 @@
 - 🌱 I’m currently learning OOP (python), DSA, MIPS Assembly
 
 My Skills
-
-Frontend
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
 
-DBMS
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&perline=3)](https://skillicons.dev)
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql&perline=2)](https://skillicons.dev)
 
-Backend
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=aws,python,flask&perline=3)](https://skillicons.dev)
 
 <!---
