@@ -2,6 +2,7 @@
 - 👀 I’m interested in making apps, websites and other cool stuff
 - 🌱 I’m currently learning OOP (python), DSA, MIPS Assembly
 
+[![My Skills](https://skillicons.dev/icons?i=aws,css,html,js,python,sqlite,mysql,flask&perline=3)](https://skillicons.dev)
 
 <!---
 M-Masood4/M-Masood4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
