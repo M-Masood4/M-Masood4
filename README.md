@@ -14,7 +14,7 @@
 
 CS student at **University College Cork** (2027) and Risk Consultant at **KPMG Dublin**. I build all sort of things, anything ranging from fintech, ML, websites to whole systems, mainly catering to solving real world problems.
 
-Currently: SOX 404 & financial risk @ KPMG · Founder, UCC CS Society (400+ members) · Always building something
+Currently: Technology Consultant (automating manual tasks) @ KPMG · Founder, UCC CS Society (400+ members) · Always building something
 
 ---
 
