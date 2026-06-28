@@ -12,9 +12,9 @@
 
 ---
 
-CS student at **University College Cork** (2027) and Risk Consultant at **KPMG Dublin**. I build all sort of things, anything ranging from fintech, ML, websites to whole systems, mainly catering to solving real world problems.
+CS student at **University College Cork** (2027) and Tech Risk Intern at **KPMG Dublin**. I build all sort of cool things.
 
-Currently: Technology Consultant (automating manual tasks) @ KPMG · Founder, UCC CS Society (400+ members) · Always building something
+Currently: Tech Risk Intern (Creating Ai Agents & automating internal processess) @ KPMG · Founder, UCC CS Society (400+ members) · Always building something
 
 ---
 
@@ -27,12 +27,13 @@ Currently: Technology Consultant (automating manual tasks) @ KPMG · Founder, UC
 - Harvard CS50 — Certificate in Python Programming
 
 **Experience**
-- Risk Consultant — KPMG, Dublin *(Mar 2026 – present)*
+- Tech Risk Intern — KPMG, Dublin *(Mar 2026 – present)*
 - Founder & Secretary — UCC Computer Science Society *(Feb 2024 – present)*
 - Vice-Chair — Pakistani Society, UCC *(Sep 2024 – present)*
 
 **Notable**
 - HackEurope 2026 — Scholar (top 50 / 1,000 from 4,400+ applicants) · Won Best Team Under 22 in Ireland · €2,000 Patch Prize · Built *Lattice*
+- HackBelfast 2026 - Best Use of Data challenge Winner by Hudson River Trading.
 - RITC Dublin 2025 — Automated trading bot · $600K simulated profit · 80% win rate · Outperformed 70% of teams from Imperial, Trinity, UCD
 
 </details>
